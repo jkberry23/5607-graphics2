@@ -1,0 +1,56 @@
+imsize 1024 1024
+eye 512 512 0
+viewdir 0 0 -1
+hfov 90
+updir 0 1 0
+bkgcolor 0 0 0
+
+mtlcolor 1 0.706 0.384
+
+mtlcolor 0.98 0.878 0.557
+sphere 512 142 -600 40
+sphere 730 212 -600 40
+sphere 864 398 -600 40
+sphere 864 626 -600 40
+sphere 730 812 -600 40
+sphere 512 882 -600 40
+sphere 294 812 -600 40
+sphere 160 626 -600 40
+sphere 160 398 -600 40
+sphere 294 212 -600 40
+
+mtlcolor 0.604 0.62 0.761
+sphere 534 192 -500 30
+sphere 718 266 -500 30
+sphere 823 434 -500 30
+sphere 810 632 -500 30
+sphere 682 784 -500 30
+sphere 490 832 -500 30
+sphere 306 758 -500 30
+sphere 201 590 -500 30
+sphere 214 392 -500 30
+sphere 342 240 -500 30
+
+mtlcolor 0.953 0.6 0.576
+sphere 546 267 -400 22.5
+sphere 684 334 -400 22.5
+sphere 755 469 -400 22.5
+sphere 734 620 -400 22.5
+sphere 628 730 -400 22.5
+sphere 478 757 -400 22.5
+sphere 340 690 -400 22.5
+sphere 269 555 -400 22.5
+sphere 290 404 -400 22.5
+sphere 396 294 -400 22.5
+
+mtlcolor 1 0.792 0.749
+sphere 536 341 -300 17.5
+sphere 632 388 -300 17.5
+sphere 682 482 -300 17.5
+sphere 667 588 -300 17.5
+sphere 593 665 -300 17.5
+sphere 488 683 -300 17.5
+sphere 392 636 -300 17.5
+sphere 342 542 -300 17.5
+sphere 357 436 -300 17.5
+sphere 431 359 -300 17.5
